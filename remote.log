@@ -1,0 +1,1 @@
+b42fd6c5-8489-4e83-9ac7-f69f24401491 autoenable=true bucket=umii-fatchecker-dataset datacenter=US encryption=none host=s3.msi.umn.edu name=public-s3 port=80 protocol=https public=yes storageclass=STANDARD type=S3 timestamp=1659989676.517509s
